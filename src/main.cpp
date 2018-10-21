@@ -2167,7 +2167,12 @@ if (!vMasternodez.empty()){
     int64_t nSubsidy = 0;
 
     if (Params().NetworkID() == CBaseChainParams::TESTNET) {
-        if (nHeight < 200 && nHeight > 0)
+        if(nHeight == 2)
+	{
+	return  8000000000 * COIN;
+	}
+	
+	if (nHeight < 200 && nHeight > 0)
             return 10000 * COIN;
     }
 
