@@ -1,13 +1,0 @@
-Will not apply HSTS. The HSTS database must be a regular and non-world-writable file.
-ERROR: could not open HSTS store at '/home/coindev/.wget-hsts'. HSTS will be disabled.
---2018-10-21 16:35:49--  https://files.fm/down.php?cf
-Resolving files.fm (files.fm)... 87.110.219.224, 84.237.231.244
-Connecting to files.fm (files.fm)|87.110.219.224|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 0 [text/html]
-Saving to: ‘down.php?cf’
-
-down.php?cf                                                                         [<=>                                                                                                                                                                                                  ]       0  --.-KB/s               down.php?cf                                                                         [ <=>                                                                                                                                                                                                 ]       0  --.-KB/s    in 0s      
-
-2018-10-21 16:35:50 (0.00 B/s) - ‘down.php?cf’ saved [0/0]
-
