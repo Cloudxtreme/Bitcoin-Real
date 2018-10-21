@@ -122,7 +122,7 @@ bool AppInit(int argc, char* argv[])
 #ifndef WIN32
         fDaemon = GetBoolArg("-daemon", false);
         if (fDaemon) {
-            fprintf(stdout, "Catocoin server starting\n");
+            fprintf(stdout, "Bitcoin Real server starting\n");
 
             // Daemonize
             pid_t pid = fork();
