@@ -2166,6 +2166,7 @@ if (!vMasternodez.empty()){
 */
     int64_t nSubsidy = 0;
 
+<<<<<<< HEAD
     /* if (Params().NetworkID() == CBaseChainParams::TESTNET) {
         if(nHeight == 2)
 	{
@@ -2183,6 +2184,14 @@ if (!vMasternodez.empty()){
         }
 	else
 {
+=======
+    if (Params().NetworkID() == CBaseChainParams::TESTNET) {
+        if(nHeight > 0 && nHeight < 3)
+	{
+	return  20000000 * COIN;
+	}  
+	else {
+>>>>>>> d4708d3bf4967bc5354b17e096925529856a60d6
 	return 10000000 * COIN;
 	}
     }
