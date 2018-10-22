@@ -182,24 +182,24 @@ libbitcoin_common_a-pubkey.o: pubkey.cpp pubkey.h hash.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/ostream.tcc \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/istream.tcc \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/sstream.tcc \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h \
  eccryptoverify.h ecwrapper.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/cstddef \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/ec.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/asn1.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/bio.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/ec.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/asn1.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/bio.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/stdarg.h \
  /usr/share/mingw-w64/include/stdarg.h \
  /usr/share/mingw-w64/include/_mingw_stdarg.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/bn.h
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/bn.h
 
 pubkey.h:
 
@@ -601,11 +601,11 @@ crypto/sph_haval.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/sstream.tcc:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h:
 
 eccryptoverify.h:
 
@@ -613,11 +613,11 @@ ecwrapper.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/cstddef:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/ec.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/ec.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/asn1.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/asn1.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/bio.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/bio.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/stdarg.h:
 
@@ -625,16 +625,16 @@ ecwrapper.h:
 
 /usr/share/mingw-w64/include/_mingw_stdarg.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/bn.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/bn.h:

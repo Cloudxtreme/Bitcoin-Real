@@ -152,37 +152,37 @@ qt/qt_libbitcoinqt_a-moc_transactionfilterproxy.o: \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_bvector.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/vector.tcc \
  libzerocoin/Denominations.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/cstddef \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/atomic \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/atomic_base.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/atomic_lockfree_defines.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qversiontagging.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qversiontagging.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/stdarg.h \
  /usr/share/mingw-w64/include/stdarg.h \
  /usr/share/mingw-w64/include/_mingw_stdarg.h \
@@ -192,38 +192,38 @@ qt/qt_libbitcoinqt_a-moc_transactionfilterproxy.o: \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/istream \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/istream.tcc \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stream_iterator.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhashfunctions.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qhashfunctions.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/numeric \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_numeric.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/list \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_list.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/allocated_ptr.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/list.tcc \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QSortFilterProxyModel \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsortfilterproxymodel.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractproxymodel.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractitemmodel.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvector.h
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/QSortFilterProxyModel \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qsortfilterproxymodel.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractproxymodel.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractitemmodel.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qvector.h
 
 qt/transactionfilterproxy.h:
 
@@ -533,47 +533,47 @@ serialize.h:
 
 libzerocoin/Denominations.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/cstddef:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/atomic:
 
@@ -581,19 +581,19 @@ libzerocoin/Denominations.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/atomic_lockfree_defines.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qversiontagging.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qversiontagging.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/stdarg.h:
 
@@ -613,19 +613,19 @@ libzerocoin/Denominations.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stream_iterator.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhashfunctions.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qhashfunctions.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/numeric:
 
@@ -639,40 +639,40 @@ libzerocoin/Denominations.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/list.tcc:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QSortFilterProxyModel:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/QSortFilterProxyModel:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsortfilterproxymodel.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qsortfilterproxymodel.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractproxymodel.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractproxymodel.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractitemmodel.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractitemmodel.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvector.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/QtCore/qvector.h:

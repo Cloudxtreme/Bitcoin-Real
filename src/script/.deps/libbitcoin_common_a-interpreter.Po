@@ -184,9 +184,9 @@ script/libbitcoin_common_a-interpreter.o: script/interpreter.cpp \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/ostream.tcc \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/istream.tcc \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/sstream.tcc \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h \
  serialize.h uint256.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/list \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_list.h \
@@ -606,11 +606,11 @@ crypto/sph_haval.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/sstream.tcc:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h:
 
 serialize.h:
 

@@ -118,7 +118,7 @@ public:
         nTargetSpacing = 1 * 60; //Catocoin: 1 minute
         nMaturity = 15;
         nMasternodeCountDrift = 20;
-        nMaxMoneyOut = 10000000000 * COIN; //500,000,000
+        nMaxMoneyOut = 25000000 * COIN; //500,000,000
 
         /** Height or Time Based Activations **/
         nLastPOWBlock = 0;

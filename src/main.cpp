@@ -1426,9 +1426,9 @@ bool CheckTransaction(const CTransaction& tx, bool fZerocoinActive, bool fReject
         if (txout.nValue < 0)
             return state.DoS(100, error("CheckTransaction() : txout.nValue negative"),
                 REJECT_INVALID, "bad-txns-vout-negative");
-        if (txout.nValue > Params().MaxMoneyOut())
-            return state.DoS(100, error("CheckTransaction() : txout.nValue too high"),
-                REJECT_INVALID, "bad-txns-vout-toolarge");
+        //if (txout.nValue > Params().MaxMoneyOut())
+            //return state.DoS(100, error("CheckTransaction() : txout.nValue too high"),
+                //REJECT_INVALID, "bad-txns-vout-toolarge");
         nValueOut += txout.nValue;
         if (!MoneyRange(nValueOut))
             return state.DoS(100, error("CheckTransaction() : txout total out of range"),
@@ -2166,15 +2166,27 @@ if (!vMasternodez.empty()){
 */
     int64_t nSubsidy = 0;
 
-    if (Params().NetworkID() == CBaseChainParams::TESTNET) {
+    /* if (Params().NetworkID() == CBaseChainParams::TESTNET) {
         if(nHeight == 2)
 	{
-	return  8000000000 * COIN;
+	return 8000000000 * COIN;
+	} else {
+	if (nHeight < 2 && nHeight > 0)
+            return 8000000000 * COIN;
 	}
-	
-	if (nHeight < 200 && nHeight > 0)
-            return 10000 * COIN;
+    } */
+
+	 if (Params().NetworkID() == CBaseChainParams::TESTNET) {
+         if(nHeight > 0 && nHeight < 3)
+        {
+        return  20000000 * COIN;
+        }
+	else
+{
+	return 10000000 * COIN;
+	}
     }
+
 
     if (nHeight == 0) {
         return 1 * COIN;  //genesis

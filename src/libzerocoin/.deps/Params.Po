@@ -109,15 +109,15 @@ libzerocoin/Params.o: libzerocoin/Params.cpp libzerocoin/Params.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_vector.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_bvector.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/vector.tcc \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/bn.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h \
- /home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/bn.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h \
+ /home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h \
  serialize.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/algorithm \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/utility \
@@ -386,23 +386,23 @@ libzerocoin/bignum.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/vector.tcc:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/bn.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/bn.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h:
 
-/home/coindev/test2/CatoCoin/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h:
+/home/coindev/BitcoinRealWorkingVerision/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h:
 
 serialize.h:
 
