@@ -12,10 +12,10 @@ AC_CONFIG_HEADERS([src/config/catocoin-config.h])
 AC_CONFIG_AUX_DIR([build-aux])
 AC_CONFIG_MACRO_DIR([build-aux/m4])
 
-BITCOIN_DAEMON_NAME=bitcoinreald
-BITCOIN_GUI_NAME=bitcoinreal-qt
-BITCOIN_CLI_NAME=bitcoinreal-cli
-BITCOIN_TX_NAME=bitcoinreal-tx
+BITCOIN_DAEMON_NAME=catocoind
+BITCOIN_GUI_NAME=catocoin-qt
+BITCOIN_CLI_NAME=catocoin-cli
+BITCOIN_TX_NAME=catocoin-tx
 
 AC_CANONICAL_HOST
 
