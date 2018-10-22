@@ -1,1 +1,0 @@
-qt/qt_libbitcoinqt_a-qrc_catocoin_locale.o: qt/qrc_catocoin_locale.cpp

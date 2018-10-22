@@ -54,10 +54,10 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 // + Contains no strange transactions
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
-    (0, uint256("0000cbb0a69689990329257c34aff247672745743fed1e8451a7ff4837c5e11e"));
+    (0, uint256("0000ac1d4fea33c02dcf126fe3a23993490e882daca2141bfdff6418c1ef9449"));
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1540215801, // * UNIX timestamp of last checkpoint block
+    1529607709, // * UNIX timestamp of last checkpoint block
     0,    // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
     2000        // * estimated number of transactions per day after checkpoint
@@ -141,26 +141,28 @@ public:
          *     CTxOut(nValue=50.00000000, scriptPubKey=0xA9037BAC7050C479B121CF)
          *   vMerkleTree: e0028e
          */
-        const char* pszTimestamp = "LiteSpeed Execution Flaw Found in LIVE Streaming";
+        const char* pszTimestamp = "LibSSH Flaw Allows Hackers to Take Over Servers";
         CMutableTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CScriptNum(4) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
-        txNew.vout[0].nValue = 8000000000 * COIN;
-        txNew.vout[0].scriptPubKey = CScript() << ParseHex("04bcfbea59ec97482475f554db08f7f67c5c5a95a52a356b052d0ed87862815796fe6022c33a0baf09fcd8d3ee98ebb6aa6a77fb43d716641242cfd45369a88e7z") << OP_CHECKSIG;
+        txNew.vout[0].nValue = 1 * COIN;
+        txNew.vout[0].scriptPubKey = CScript() << ParseHex("04bcfbea59ec97482475f554db08f7f67c5c5a95a52a356b052d0ed87862815796fe6022c33a0baf09fcd8d3ee98ebb6aa6a77fb43d716641242cfd45369a88e7d") << OP_CHECKSIG;
         genesis.vtx.push_back(txNew);
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime = 1540215801;  // Sat, 20 Oct 2018 07:12:23 GMT
+        genesis.nTime = 1540019544;  // Sat, 20 Oct 2018 07:12:23 GMT
         genesis.nBits = 0x1e0ffff0;
-        genesis.nNonce =  28628;
+        genesis.nNonce = 21296;
+
 
 
 /*
         nounce: 46a85
 genesis: 0000805d611af83deb1ef480f6cb68333f37155ad89f8785337d7dc18baa7db3
 merklehash: 6e866f9ab04c024b0df259bd8f84f8e1edb7cf244e577607c3241b70e31bd63f
+
 
     printf("Generating genesis block...\n");
            uint32_t nounce = 1;
@@ -181,17 +183,16 @@ merklehash: 6e866f9ab04c024b0df259bd8f84f8e1edb7cf244e577607c3241b70e31bd63f
    			}
    		}
 
-
            printf("genesis: %s\n",hashGenesisBlock.GetHex().c_str());
            printf("merklehash: %s\n",genesis.hashMerkleRoot.ToString().c_str());
-		*/
-           //nounce: 3ac63
-           //genesis: 0000d3c84566fed13fed9f320c1eea7ba5c11196a01cfbdfe89951012ea0e03b
-           //merklehash: 3ab40ae8768e8fbd5dd51f8edbc68614d3f340f0c6e7029a86f5c90d98571c74
 
+           nounce: 3ac63
+           genesis: 0000d3c84566fed13fed9f320c1eea7ba5c11196a01cfbdfe89951012ea0e03b
+           merklehash: 3ab40ae8768e8fbd5dd51f8edbc68614d3f340f0c6e7029a86f5c90d98571c74
+*/
         hashGenesisBlock = genesis.GetHash();
-      	assert(hashGenesisBlock == uint256("000027939369402ef1f70fb260466139b6ddeed2e27a2ca2021a73b449e90d80"));
-	assert(genesis.hashMerkleRoot == uint256("d810a1ea27cfd6a51091bc178fbf3b5ad868c9cf64739ef7afa6b3e24a22b9d9"));
+      assert(hashGenesisBlock == uint256("0000ac1d4fea33c02dcf126fe3a23993490e882daca2141bfdff6418c1ef9449"));
+     assert(genesis.hashMerkleRoot == uint256("f3dc2f6c636e8ed35b2f91f125af7f07a4418ecf28d79db79a6b46800840c664"));
 
 
        vSeeds.push_back(CDNSSeedData("206.189.26.96", "206.189.26.96"));
