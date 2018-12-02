@@ -95,10 +95,10 @@ PrivacyDialog::PrivacyDialog(QWidget* parent) : QDialog(parent),
     //temporary disable for maintenance
     if(GetAdjustedTime() > GetSporkValue(SPORK_16_ZEROCOIN_MAINTENANCE_MODE)) {
         ui->pushButtonMintzBR->setEnabled(false);
-        ui->pushButtonMintzBR->setToolTip(tr("zCATO is currently disabled due to maintenance."));
+        ui->pushButtonMintzBR->setToolTip(tr("zbitcoinreal is currently disabled due to maintenance."));
 
         ui->pushButtonSpendzBR->setEnabled(false);
-        ui->pushButtonSpendzBR->setToolTip(tr("zCATO is currently disabled due to maintenance."));
+        ui->pushButtonSpendzBR->setToolTip(tr("zbitcoinreal is currently disabled due to maintenance."));
     }
 }
 

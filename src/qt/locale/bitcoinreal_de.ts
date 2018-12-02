@@ -1551,20 +1551,20 @@ Bitte Adresse überprüfen und nochmals versuchen.</translation>
         <translation>16 separate Masternodes verwenden</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Diese Option ist die schnellst und kostet ungefähr ~0.025 BRCOIN um 10000 CATOCOIN zu anonymisieren </translation>
+        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Diese Option ist die schnellst und kostet ungefähr ~0.025 BRCOIN um 10000 bitcoinrealCOIN zu anonymisieren </translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Diese Option ist angemessen schnell und kostet ungefähr  0.05 BRCOIN um 10000 CATOCOIN zu anonymisieren</translation>
+        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Diese Option ist angemessen schnell und kostet ungefähr  0.05 BRCOIN um 10000 bitcoinrealCOIN zu anonymisieren</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Diese Option ist die langsamste und sicherste Option. Die Verwendung maximaler Anonymisierung kostet</translation>
     </message>
     <message>
-        <source>0.1 BRCOIN per 10000 CATOCOIN you anonymize.</source>
-        <translation>0.1 BRCOIN per 10000 CATOCOIN die anonymisiert werden.</translation>
+        <source>0.1 BRCOIN per 10000 bitcoinrealCOIN you anonymize.</source>
+        <translation>0.1 BRCOIN per 10000 bitcoinrealCOIN die anonymisiert werden.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1707,8 +1707,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>Port mit &amp;UPnP mappen</translation>
     </message>
     <message>
-        <source>Percentage of incoming BRCOIN which get automatically converted to zCATOCOIN via Zerocoin Protocol (min: 10%)</source>
-        <translation>Anteil des eingehenden BRCOIN, welcher automatisch zu zCATOCOIN via Zerocoin Protokoll konvertiert wird (min: 10%)</translation>
+        <source>Percentage of incoming BRCOIN which get automatically converted to zbitcoinrealCOIN via Zerocoin Protocol (min: 10%)</source>
+        <translation>Anteil des eingehenden BRCOIN, welcher automatisch zu zbitcoinrealCOIN via Zerocoin Protokoll konvertiert wird (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBRCOIN</source>
@@ -2059,8 +2059,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>BRCOIN, die über das Zerocoin-Protokoll anonymisiert wurden</translation>
     </message>
     <message>
-        <source>Zerocoin BRCOIN (zCATOCOIN)</source>
-        <translation>Zerocoin BRCOIN (zCATOCOIN)</translation>
+        <source>Zerocoin BRCOIN (zbitcoinrealCOIN)</source>
+        <translation>Zerocoin BRCOIN (zbitcoinrealCOIN)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
@@ -3174,12 +3174,12 @@ Bitte haben Sie Geduld...</translation>
         <translation>Coins automatisch ausgewählt</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOCOINs in fee,&lt;br /&gt;while "at least" pays 1000 uCATOCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Wenn die kundenspezifische Gebühr auf 1000 uBRCOINs eingestellt ist und die Transaktion nur 250 Bytes beträgt, dann zahlt man "pro Kilobyte" nur 250 uCATOCOINs an Gebühren,&lt;br /&gt;während man "mindestens" 1000 uCATOCOINs bezahlt. Für Transaktionen, die größer sind als ein Kilobyte, bezahlen sie per Kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinrealCOINs in fee,&lt;br /&gt;while "at least" pays 1000 ubitcoinrealCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Wenn die kundenspezifische Gebühr auf 1000 uBRCOINs eingestellt ist und die Transaktion nur 250 Bytes beträgt, dann zahlt man "pro Kilobyte" nur 250 ubitcoinrealCOINs an Gebühren,&lt;br /&gt;während man "mindestens" 1000 ubitcoinrealCOINs bezahlt. Für Transaktionen, die größer sind als ein Kilobyte, bezahlen sie per Kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOCOINs in fee,&lt;br /&gt;while "total at least" pays 1000 uCATOCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Wenn die kundenspezifische Gebühr auf 1000 uBRCOINs eingestellt ist und die Transaktion nur 250 Bytes beträgt, dann zahlt man "pro Kilobyte" nur 250 uCATOCOINs an Gebühren,&lt;br /&gt;während man "insgesamt mindestens" 1000 uCATOCOINs bezahlt. Für Transaktionen, die größer sind als ein Kilobyte, bezahlen sie per Kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinrealCOINs in fee,&lt;br /&gt;while "total at least" pays 1000 ubitcoinrealCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Wenn die kundenspezifische Gebühr auf 1000 uBRCOINs eingestellt ist und die Transaktion nur 250 Bytes beträgt, dann zahlt man "pro Kilobyte" nur 250 ubitcoinrealCOINs an Gebühren,&lt;br /&gt;während man "insgesamt mindestens" 1000 ubitcoinrealCOINs bezahlt. Für Transaktionen, die größer sind als ein Kilobyte, bezahlen sie per Kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BitcoinReal transactions than the network can process.</source>
@@ -3805,7 +3805,7 @@ Bitte haben Sie Geduld...</translation>
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Erzeugte BRCOINs müssen %1 Blöcke lang reifen, bevor sie ausgegeben werden können. Als Sie diesen Block erzeugten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in "nicht angenommen" geändert und Sie werden keine CATOCOINs gutgeschrieben bekommen. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block fast zeitgleich erzeugt.</translation>
+        <translation>Erzeugte BRCOINs müssen %1 Blöcke lang reifen, bevor sie ausgegeben werden können. Als Sie diesen Block erzeugten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in "nicht angenommen" geändert und Sie werden keine bitcoinrealCOINs gutgeschrieben bekommen. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block fast zeitgleich erzeugt.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -3951,7 +3951,7 @@ Bitte haben Sie Geduld...</translation>
     </message>
     <message>
         <source>Converted Phr to zPhr</source>
-        <translation>Umgewandeltes BRCOIN zu zCATOCOIN</translation>
+        <translation>Umgewandeltes BRCOIN zu zbitcoinrealCOIN</translation>
     </message>
     <message>
         <source>Spent zPhr</source>
@@ -3959,15 +3959,15 @@ Bitte haben Sie Geduld...</translation>
     </message>
     <message>
         <source>Received Phr from zPhr</source>
-        <translation>Empfangene BRCOIN von zCATOCOIN</translation>
+        <translation>Empfangene BRCOIN von zbitcoinrealCOIN</translation>
     </message>
     <message>
         <source>Minted Change as zPhr from zPhr Spend</source>
-        <translation>Geprägtes Wechselgeld als zBRCOIN von zCATOCOIN Ausgabe</translation>
+        <translation>Geprägtes Wechselgeld als zBRCOIN von zbitcoinrealCOIN Ausgabe</translation>
     </message>
     <message>
         <source>Converted zPhr to Phr</source>
-        <translation>Umgewandeltes zBRCOIN zu CATOCOIN</translation>
+        <translation>Umgewandeltes zBRCOIN zu bitcoinrealCOIN</translation>
     </message>
     <message>
         <source>watch-only</source>
@@ -4086,7 +4086,7 @@ Bitte haben Sie Geduld...</translation>
     </message>
     <message>
         <source>Received Phr from zPhr</source>
-        <translation>Empfangene BRCOIN von zCATOCOIN</translation>
+        <translation>Empfangene BRCOIN von zbitcoinrealCOIN</translation>
     </message>
     <message>
         <source>Zerocoin Mint</source>

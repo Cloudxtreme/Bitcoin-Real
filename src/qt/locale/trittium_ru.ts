@@ -1528,20 +1528,20 @@ Please check the address and try again.</source>
         <translation>Используйте 16 разных мастернод</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 CATO</source>
-        <translation>Этот вариант является самым быстрым и будет стоить порядка ~0.025 BR для анонимизации 10000 CATO</translation>
+        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 bitcoinreal</source>
+        <translation>Этот вариант является самым быстрым и будет стоить порядка ~0.025 BR для анонимизации 10000 bitcoinreal</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BR to anonymize 10000 CATO</source>
-        <translation>Это средний по скорости вариант и он будет стоить около 0.05 BR для анонимизации 10000 CATO</translation>
+        <source>This option is moderately fast and will cost about 0.05 BR to anonymize 10000 bitcoinreal</source>
+        <translation>Это средний по скорости вариант и он будет стоить около 0.05 BR для анонимизации 10000 bitcoinreal</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Это самый медленный и безопасный вариант. Максимальная анонимность стоит</translation>
     </message>
     <message>
-        <source>0.1 BR per 10000 CATO you anonymize.</source>
-        <translation>0.1 BR за 10000 CATO которые вы собираетесь анонимизировать.</translation>
+        <source>0.1 BR per 10000 bitcoinreal you anonymize.</source>
+        <translation>0.1 BR за 10000 bitcoinreal которые вы собираетесь анонимизировать.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1684,8 +1684,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>Карта порта, использующего &amp;UPnP</translation>
     </message>
     <message>
-        <source>Percentage of incoming BR which get automatically converted to zCATO via Zerocoin Protocol (min: 10%)</source>
-        <translation>Процент приходящих BR, которые автоматически конвертируются в zCATO благодаря Zerocoin протоколу (min: 10%)</translation>
+        <source>Percentage of incoming BR which get automatically converted to zbitcoinreal via Zerocoin Protocol (min: 10%)</source>
+        <translation>Процент приходящих BR, которые автоматически конвертируются в zbitcoinreal благодаря Zerocoin протоколу (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBR</source>

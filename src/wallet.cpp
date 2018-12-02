@@ -4233,14 +4233,14 @@ bool CWallet::CreateZerocoinMintTransaction(const CAmount nValue, CMutableTransa
 bool CWallet::MintToTxIn(CZerocoinMint zerocoinSelected, int nSecurityLevel, const uint256& hashTxOut, CTxIn& newTxIn, CZerocoinSpendReceipt& receipt)
 {
     // Default error status if not changed below
-    receipt.SetStatus("Transaction Mint Started", ZCATO_TXMINT_GENERAL);
+    receipt.SetStatus("Transaction Mint Started", Zbitcoinreal_TXMINT_GENERAL);
 
     libzerocoin::CoinDenomination denomination = zerocoinSelected.GetDenomination();
     // 2. Get pubcoin from the private coin
     libzerocoin::PublicCoin pubCoinSelected(Params().Zerocoin_Params(), zerocoinSelected.GetValue(), denomination);
     LogPrintf("%s : pubCoinSelected:\n denom=%d\n value%s\n", __func__, denomination, pubCoinSelected.getValue().GetHex());
     if (!pubCoinSelected.validate()) {
-        receipt.SetStatus("the selected mint coin is an invalid coin", ZCATO_INVALID_COIN);
+        receipt.SetStatus("the selected mint coin is an invalid coin", Zbitcoinreal_INVALID_COIN);
         return false;
     }
 
@@ -4250,7 +4250,7 @@ bool CWallet::MintToTxIn(CZerocoinMint zerocoinSelected, int nSecurityLevel, con
     string strFailReason = "";
     int nMintsAdded = 0;
     if (!GenerateAccumulatorWitness(pubCoinSelected, accumulator, witness, nSecurityLevel, nMintsAdded, strFailReason)) {
-        receipt.SetStatus("Try to spend with a higher security level to include more coins", ZCATO_FAILED_ACCUMULATOR_INITIALIZATION);
+        receipt.SetStatus("Try to spend with a higher security level to include more coins", Zbitcoinreal_FAILED_ACCUMULATOR_INITIALIZATION);
         LogPrintf("%s : %s \n", __func__, receipt.GetStatusMessage());
         return false;
     }
@@ -4266,7 +4266,7 @@ bool CWallet::MintToTxIn(CZerocoinMint zerocoinSelected, int nSecurityLevel, con
         libzerocoin::CoinSpend spend(Params().Zerocoin_Params(), privateCoin, accumulator, nChecksum, witness, hashTxOut);
 
         if (!spend.Verify(accumulator)) {
-            receipt.SetStatus("the new spend coin transaction did not verify", ZCATO_INVALID_WITNESS);
+            receipt.SetStatus("the new spend coin transaction did not verify", Zbitcoinreal_INVALID_WITNESS);
             return false;
         }
 
@@ -4290,13 +4290,13 @@ bool CWallet::MintToTxIn(CZerocoinMint zerocoinSelected, int nSecurityLevel, con
             serializedCoinSpendChecking << spend;
         }
         catch (...) {
-            receipt.SetStatus("failed to deserialize", ZCATO_BAD_SERIALIZATION);
+            receipt.SetStatus("failed to deserialize", Zbitcoinreal_BAD_SERIALIZATION);
             return false;
         }
 
         libzerocoin::CoinSpend newSpendChecking(Params().Zerocoin_Params(), serializedCoinSpendChecking);
         if (!newSpendChecking.Verify(accumulator)) {
-            receipt.SetStatus("the transaction did not verify", ZCATO_BAD_SERIALIZATION);
+            receipt.SetStatus("the transaction did not verify", Zbitcoinreal_BAD_SERIALIZATION);
             return false;
         }
 
@@ -4309,7 +4309,7 @@ bool CWallet::MintToTxIn(CZerocoinMint zerocoinSelected, int nSecurityLevel, con
                     LogPrintf("%s failed to write zerocoinmint\n", __func__);
 
                 pwalletMain->NotifyZerocoinChanged(pwalletMain, zerocoinSelected.GetValue().GetHex(), "Used", CT_UPDATED);
-                receipt.SetStatus("the coin spend has been used", ZCATO_SPENT_USED_ZCATO);
+                receipt.SetStatus("the coin spend has been used", Zbitcoinreal_SPENT_USED_Zbitcoinreal);
                 return false;
             }
         }
@@ -4320,11 +4320,11 @@ bool CWallet::MintToTxIn(CZerocoinMint zerocoinSelected, int nSecurityLevel, con
         receipt.AddSpend(zcSpend);
     }
     catch (const std::exception&) {
-        receipt.SetStatus("CoinSpend: Accumulator witness does not verify", ZCATO_INVALID_WITNESS);
+        receipt.SetStatus("CoinSpend: Accumulator witness does not verify", Zbitcoinreal_INVALID_WITNESS);
         return false;
     }
 
-    receipt.SetStatus("Spend Valid", ZCATO_SPEND_OKAY); // Everything okay
+    receipt.SetStatus("Spend Valid", Zbitcoinreal_SPEND_OKAY); // Everything okay
 
     return true;
 }
@@ -4332,7 +4332,7 @@ bool CWallet::MintToTxIn(CZerocoinMint zerocoinSelected, int nSecurityLevel, con
 bool CWallet::CreateZerocoinSpendTransaction(CAmount nValue, int nSecurityLevel, CWalletTx& wtxNew, CReserveKey& reserveKey, CZerocoinSpendReceipt& receipt, vector<CZerocoinMint>& vSelectedMints, vector<CZerocoinMint>& vNewMints, bool fMintChange,  bool fMinimizeChange, CBitcoinAddress* address)
 {
     // Check available funds
-    int nStatus = ZCATO_TRX_FUNDS_PROBLEMS;
+    int nStatus = Zbitcoinreal_TRX_FUNDS_PROBLEMS;
     if (nValue > GetZerocoinBalance(true)) {
         receipt.SetStatus("You don't have enough Zerocoins in your wallet", nStatus);
         return false;
@@ -4344,7 +4344,7 @@ bool CWallet::CreateZerocoinSpendTransaction(CAmount nValue, int nSecurityLevel,
     }
 
     // Create transaction
-    nStatus = ZCATO_TRX_CREATE;
+    nStatus = Zbitcoinreal_TRX_CREATE;
 
     // If not already given pre-selected mints, then select mints from the wallet
     CWalletDB walletdb(pwalletMain->strWalletFile);
@@ -4428,7 +4428,7 @@ bool CWallet::CreateZerocoinSpendTransaction(CAmount nValue, int nSecurityLevel,
     }
 
     // Create change if needed
-    nStatus = ZCATO_TRX_CHANGE;
+    nStatus = Zbitcoinreal_TRX_CHANGE;
 
     CMutableTransaction txNew;
     wtxNew.BindWallet(this);
@@ -4510,7 +4510,7 @@ bool CWallet::CreateZerocoinSpendTransaction(CAmount nValue, int nSecurityLevel,
         }
     }
 
-    receipt.SetStatus("Transaction Created", ZCATO_SPEND_OKAY); // Everything okay
+    receipt.SetStatus("Transaction Created", Zbitcoinreal_SPEND_OKAY); // Everything okay
 
     return true;
 }
@@ -4708,10 +4708,10 @@ string CWallet::MintZerocoin(CAmount nValue, CWalletTx& wtxNew, vector<CZerocoin
 bool CWallet::SpendZerocoin(CAmount nAmount, int nSecurityLevel, CWalletTx& wtxNew, CZerocoinSpendReceipt& receipt, vector<CZerocoinMint>& vMintsSelected, bool fMintChange, bool fMinimizeChange, CBitcoinAddress* addressTo)
 {
     // Default: assume something goes wrong. Depending on the problem this gets more specific below
-    int nStatus = ZCATO_SPEND_ERROR;
+    int nStatus = Zbitcoinreal_SPEND_ERROR;
 
     if (IsLocked()) {
-        receipt.SetStatus("Error: Wallet locked, unable to create transaction!", ZCATO_WALLET_LOCKED);
+        receipt.SetStatus("Error: Wallet locked, unable to create transaction!", Zbitcoinreal_WALLET_LOCKED);
         return false;
     }
 
@@ -4727,7 +4727,7 @@ bool CWallet::SpendZerocoin(CAmount nAmount, int nSecurityLevel, CWalletTx& wtxN
     CWalletDB walletdb(pwalletMain->strWalletFile);
     if (!CommitTransaction(wtxNew, reserveKey)) {
         LogPrintf("%s: failed to commit\n", __func__);
-        nStatus = ZCATO_COMMIT_FAILED;
+        nStatus = Zbitcoinreal_COMMIT_FAILED;
 
         //reset all mints
         for (CZerocoinMint mint : vMintsSelected) {
@@ -4739,7 +4739,7 @@ bool CWallet::SpendZerocoin(CAmount nAmount, int nSecurityLevel, CWalletTx& wtxN
         //erase spends
         for (CZerocoinSpend spend : receipt.GetSpends()) {
             if (!walletdb.EraseZerocoinSpendSerialEntry(spend.GetSerial())) {
-                receipt.SetStatus("Error: It cannot delete coin serial number in wallet", ZCATO_ERASE_SPENDS_FAILED);
+                receipt.SetStatus("Error: It cannot delete coin serial number in wallet", Zbitcoinreal_ERASE_SPENDS_FAILED);
             }
 
             //Remove from public zerocoinDB
@@ -4749,7 +4749,7 @@ bool CWallet::SpendZerocoin(CAmount nAmount, int nSecurityLevel, CWalletTx& wtxN
         // erase new mints
         for (auto& mint : vNewMints) {
             if (!walletdb.EraseZerocoinMint(mint)) {
-                receipt.SetStatus("Error: Unable to cannot delete zerocoin mint in wallet", ZCATO_ERASE_NEW_MINTS_FAILED);
+                receipt.SetStatus("Error: Unable to cannot delete zerocoin mint in wallet", Zbitcoinreal_ERASE_NEW_MINTS_FAILED);
             }
         }
 
@@ -4782,7 +4782,7 @@ bool CWallet::SpendZerocoin(CAmount nAmount, int nSecurityLevel, CWalletTx& wtxN
         walletdb.WriteZerocoinMint(mint);
     }
 
-    receipt.SetStatus("Spend Successful", ZCATO_SPEND_OKAY);  // When we reach this point spending zBR was successful
+    receipt.SetStatus("Spend Successful", Zbitcoinreal_SPEND_OKAY);  // When we reach this point spending zBR was successful
 
     return true;
 }

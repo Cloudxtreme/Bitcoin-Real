@@ -1147,11 +1147,11 @@ Please check the address and try again.</source>
         <translation>Käytä 16 erillistä masternodea</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 CATOCOIN</source>
+        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
         <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 BRCOIN anonymoidaksesi 10000 BitcoinReal</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 CATOCOIN</source>
+        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
         <translation>Tämä vaihtoehto on suhteellisen nopea ja maksaa 0.05 BitcoinReal anonymoidaksesi 10000 BitcoinReal</translation>
     </message>
     <message>
@@ -1159,7 +1159,7 @@ Please check the address and try again.</source>
         <translation>Tämä on hitain ja turvallisin vaihtoehto. Täydesti anonymisoiminen ei maksa mitään.</translation>
     </message>
     <message>
-        <source>0.1 BRCOIN per 10000 CATOCOIN you anonymize.</source>
+        <source>0.1 BRCOIN per 10000 bitcoinrealCOIN you anonymize.</source>
         <translation>0.1 per 10000 BitcoinReal, jotka anonymisoit.</translation>
     </message>
     <message>

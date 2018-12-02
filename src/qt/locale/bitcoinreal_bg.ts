@@ -1560,20 +1560,20 @@ Please check the address and try again.</source>
         <translation>Използвай 16 различни мастърноуда</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Това е най-бързия метод и ще струва около 0.025 BRCOIN за да скриете 10000 CATOCOIN</translation>
+        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Това е най-бързия метод и ще струва около 0.025 BRCOIN за да скриете 10000 bitcoinrealCOIN</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Тази опция е сравнително бърза и ще струва около 0.05 BRCOIN за да скриете 10000 CATOCOIN</translation>
+        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Тази опция е сравнително бърза и ще струва около 0.05 BRCOIN за да скриете 10000 bitcoinrealCOIN</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Това е най-бавния и най-сигурен вариант за скриване на BRCOIN. Използването й ще струва</translation>
     </message>
     <message>
-        <source>0.1 BRCOIN per 10000 CATOCOIN you anonymize.</source>
-        <translation>0.1 BRCOIN за 10000 скрити CATOCOIN</translation>
+        <source>0.1 BRCOIN per 10000 bitcoinrealCOIN you anonymize.</source>
+        <translation>0.1 BRCOIN за 10000 скрити bitcoinrealCOIN</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1712,8 +1712,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
 https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</translation>
     </message>
     <message>
-        <source>Percentage of incoming BRCOIN which get automatically converted to zCATOCOIN via Zerocoin Protocol (min: 10%)</source>
-        <translation>Процент от входящите BRCOIN, който автоматично да се конвертира в zCATOCOIN посредтвом Zerocoin Протокола (мин: 10%)</translation>
+        <source>Percentage of incoming BRCOIN which get automatically converted to zbitcoinrealCOIN via Zerocoin Protocol (min: 10%)</source>
+        <translation>Процент от входящите BRCOIN, който автоматично да се конвертира в zbitcoinrealCOIN посредтвом Zerocoin Протокола (мин: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBRCOIN</source>
@@ -1721,7 +1721,7 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
     </message>
     <message>
         <source>Wait with automatic conversion to Zerocoin until enough BRCOIN for this denomination is available</source>
-        <translation>Не бързай с автоматичното конвертиране в zBRCOIN докато не се съберат достатъчно CATOCOIN за тази деноминация</translation>
+        <translation>Не бързай с автоматичното конвертиране в zBRCOIN докато не се съберат достатъчно bitcoinrealCOIN за тази деноминация</translation>
     </message>
     <message>
         <source>Preferred Automint zBRCOIN Denomination</source>
@@ -2064,8 +2064,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>BRCOIN скрити посредством Зерокойн протокола</translation>
     </message>
     <message>
-        <source>Zerocoin BRCOIN (zCATOCOIN)</source>
-        <translation>Zerocoin BRCOIN (zCATOCOIN)</translation>
+        <source>Zerocoin BRCOIN (zbitcoinrealCOIN)</source>
+        <translation>Zerocoin BRCOIN (zbitcoinrealCOIN)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
@@ -2077,7 +2077,7 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
     </message>
     <message>
         <source>Enter an amount of Phr to convert to zPhr</source>
-        <translation>Въведете колко BRCOIN  да се конвертират в zCATOCOIN</translation>
+        <translation>Въведете колко BRCOIN  да се конвертират в zbitcoinrealCOIN</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -3179,12 +3179,12 @@ Please be patient...</source>
         <translation>Автоматично избрани монети</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOCOINs in fee,&lt;br /&gt;while "at least" pays 1000 uCATOCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ако собствената такса е настроена на 1000 uBRCOIN и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uCATOCOIN входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 uCATOCOIN. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
+        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinrealCOINs in fee,&lt;br /&gt;while "at least" pays 1000 ubitcoinrealCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Ако собствената такса е настроена на 1000 uBRCOIN и превода е само 250 байта, то тогава "за килобайт" само плаща 250 ubitcoinrealCOIN входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 ubitcoinrealCOIN. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOCOINs in fee,&lt;br /&gt;while "total at least" pays 1000 uCATOCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ако собствената такса е настроена на 1000 uBRCOIN и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uCATOCOIN входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 uCATOCOIN. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
+        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinrealCOINs in fee,&lt;br /&gt;while "total at least" pays 1000 ubitcoinrealCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Ако собствената такса е настроена на 1000 uBRCOIN и превода е само 250 байта, то тогава "за килобайт" само плаща 250 ubitcoinrealCOIN входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 ubitcoinrealCOIN. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BitcoinReal transactions than the network can process.</source>
@@ -3956,7 +3956,7 @@ Please be patient...</source>
     </message>
     <message>
         <source>Converted Phr to zPhr</source>
-        <translation>Конвертиран BRCOIN във zCATOCOIN</translation>
+        <translation>Конвертиран BRCOIN във zbitcoinrealCOIN</translation>
     </message>
     <message>
         <source>Spent zPhr</source>
@@ -3964,15 +3964,15 @@ Please be patient...</source>
     </message>
     <message>
         <source>Received Phr from zPhr</source>
-        <translation>Получен BRCOIN от zCATOCOIN</translation>
+        <translation>Получен BRCOIN от zbitcoinrealCOIN</translation>
     </message>
     <message>
         <source>Minted Change as zPhr from zPhr Spend</source>
-        <translation>Исечено ресто като zBRCOIN от похарчените zCATOCOIN</translation>
+        <translation>Исечено ресто като zBRCOIN от похарчените zbitcoinrealCOIN</translation>
     </message>
     <message>
         <source>Converted zPhr to Phr</source>
-        <translation>Конвертирани zBRCOIN в CATOCOIN</translation>
+        <translation>Конвертирани zBRCOIN в bitcoinrealCOIN</translation>
     </message>
     <message>
         <source>watch-only</source>
@@ -4087,7 +4087,7 @@ Please be patient...</source>
     </message>
     <message>
         <source>Received Phr from zPhr</source>
-        <translation>Получен BRCOIN от zCATOCOIN</translation>
+        <translation>Получен BRCOIN от zbitcoinrealCOIN</translation>
     </message>
     <message>
         <source>Zerocoin Mint</source>

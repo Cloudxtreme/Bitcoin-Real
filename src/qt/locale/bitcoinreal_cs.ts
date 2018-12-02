@@ -1446,16 +1446,16 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Použít 16 oddělených masternodů</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Tato možnost je nejrychleší a bude stát zhruba ~0.025 BRCOIN pro anonymizaci 10000 CATOCOIN</translation>
+        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Tato možnost je nejrychleší a bude stát zhruba ~0.025 BRCOIN pro anonymizaci 10000 bitcoinrealCOIN</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Toto je nejpomalejší a nejvíce bezpečná volba. Použití maximalní anonymity bude stát</translation>
     </message>
     <message>
-        <source>0.1 BRCOIN per 10000 CATOCOIN you anonymize.</source>
-        <translation>0.1 BRCOIN za 10000 CATOCOIN anonymizujete.</translation>
+        <source>0.1 BRCOIN per 10000 bitcoinrealCOIN you anonymize.</source>
+        <translation>0.1 BRCOIN za 10000 bitcoinrealCOIN anonymizujete.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>

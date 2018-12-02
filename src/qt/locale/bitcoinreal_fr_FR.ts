@@ -1050,20 +1050,20 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Utiliser 16 masternodes différentes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Cette option est la plus rapide, et coutera ~0.025 BRCOIN pour anonymiser 10000 CATOCOIN</translation>
+        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Cette option est la plus rapide, et coutera ~0.025 BRCOIN pour anonymiser 10000 bitcoinrealCOIN</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Cette option est moyennement rapide, et coutera 0.05 BRCOIN pour anonymiser 10000 CATOCOIN</translation>
+        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Cette option est moyennement rapide, et coutera 0.05 BRCOIN pour anonymiser 10000 bitcoinrealCOIN</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Il s'agit de l'option la plus lente est la plus sécurisé. Utiliser l'anonymat maximum coutera</translation>
     </message>
     <message>
-        <source>0.1 BRCOIN per 10000 CATOCOIN you anonymize.</source>
-        <translation>0.1 BRCOIN par 10000 CATOCOIN vous anonymisez.</translation>
+        <source>0.1 BRCOIN per 10000 bitcoinrealCOIN you anonymize.</source>
+        <translation>0.1 BRCOIN par 10000 bitcoinrealCOIN vous anonymisez.</translation>
     </message>
     </context>
 <context>

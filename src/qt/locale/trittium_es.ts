@@ -1560,20 +1560,20 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Use 16 nodos maestros diferentes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 CATO</source>
-        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 BR para anonimizar 10000 CATO</translation>
+        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 bitcoinreal</source>
+        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 BR para anonimizar 10000 bitcoinreal</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BR to anonymize 10000 CATO</source>
-        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 BR para anonimizar 10000 CATO.</translation>
+        <source>This option is moderately fast and will cost about 0.05 BR to anonymize 10000 bitcoinreal</source>
+        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 BR para anonimizar 10000 bitcoinreal.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Esta es la opción más lenta pero más segura. Usar el máximo anonimato costará</translation>
     </message>
     <message>
-        <source>0.1 BR per 10000 CATO you anonymize.</source>
-        <translation>0.1 BR por 10000 CATO que anonimizas.</translation>
+        <source>0.1 BR per 10000 bitcoinreal you anonymize.</source>
+        <translation>0.1 BR por 10000 bitcoinreal que anonimizas.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1716,8 +1716,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>Mapear un puerto utilizando &amp;UPnP</translation>
     </message>
     <message>
-        <source>Percentage of incoming BR which get automatically converted to zCATO via Zerocoin Protocol (min: 10%)</source>
-        <translation>Porcentaje de BRs entrantes que serán automáticamente convertidos a zCATO a través del Protocolo Zerocoin (mín: 10%)</translation>
+        <source>Percentage of incoming BR which get automatically converted to zbitcoinreal via Zerocoin Protocol (min: 10%)</source>
+        <translation>Porcentaje de BRs entrantes que serán automáticamente convertidos a zbitcoinreal a través del Protocolo Zerocoin (mín: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBR</source>
@@ -2068,8 +2068,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>BR que fueron anonimizados mediante Protocolo Zerocoin</translation>
     </message>
     <message>
-        <source>Zerocoin BR (zCATO)</source>
-        <translation>Zerocoin BR (zCATO)</translation>
+        <source>Zerocoin BR (zbitcoinreal)</source>
+        <translation>Zerocoin BR (zbitcoinreal)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
@@ -3183,12 +3183,12 @@ Por favor tenga paciencia...</translation>
         <translation>Monedas seleccionadas automáticamente</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOs in fee,&lt;br /&gt;while "at least" pays 1000 uCATOs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 uBRs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uCATOs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uCATOs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinreals in fee,&lt;br /&gt;while "at least" pays 1000 ubitcoinreals. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si la comisión personalizada se fija en 1000 uBRs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 ubitcoinreals de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 ubitcoinreals. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOs in fee,&lt;br /&gt;while "total at least" pays 1000 uCATOs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 uBRs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uCATOs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uCATOs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinreals in fee,&lt;br /&gt;while "total at least" pays 1000 ubitcoinreals. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si la comisión personalizada se fija en 1000 uBRs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 ubitcoinreals de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 ubitcoinreals. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BitcoinReal transactions than the network can process.</source>

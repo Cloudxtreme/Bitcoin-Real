@@ -953,11 +953,11 @@ public:
 #endif // QT_NO_TOOLTIP
         buttonMinimizeFee->setText(QApplication::translate("SendCoinsDialog", "Minimize", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
-        radioCustomPerKilobyte->setToolTip(QApplication::translate("SendCoinsDialog", "If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then \"per kilobyte\" only pays 250 uCATOs in fee,<br />while \"at least\" pays 1000 uCATOs. For transactions bigger than a kilobyte both pay by kilobyte.", Q_NULLPTR));
+        radioCustomPerKilobyte->setToolTip(QApplication::translate("SendCoinsDialog", "If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then \"per kilobyte\" only pays 250 ubitcoinreals in fee,<br />while \"at least\" pays 1000 ubitcoinreals. For transactions bigger than a kilobyte both pay by kilobyte.", Q_NULLPTR));
 #endif // QT_NO_TOOLTIP
         radioCustomPerKilobyte->setText(QApplication::translate("SendCoinsDialog", "per kilobyte", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
-        radioCustomAtLeast->setToolTip(QApplication::translate("SendCoinsDialog", "If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then \"per kilobyte\" only pays 250 uCATOs in fee,<br />while \"total at least\" pays 1000 uCATOs. For transactions bigger than a kilobyte both pay by kilobyte.", Q_NULLPTR));
+        radioCustomAtLeast->setToolTip(QApplication::translate("SendCoinsDialog", "If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then \"per kilobyte\" only pays 250 ubitcoinreals in fee,<br />while \"total at least\" pays 1000 ubitcoinreals. For transactions bigger than a kilobyte both pay by kilobyte.", Q_NULLPTR));
 #endif // QT_NO_TOOLTIP
         radioCustomAtLeast->setText(QApplication::translate("SendCoinsDialog", "total at least", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP

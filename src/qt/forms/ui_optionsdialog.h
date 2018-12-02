@@ -553,7 +553,7 @@ public:
         threadsScriptVerif->setToolTip(QApplication::translate("OptionsDialog", "(0 = auto, <0 = leave that many cores free)", Q_NULLPTR));
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_TOOLTIP
-        percentage_label->setToolTip(QApplication::translate("OptionsDialog", "Percentage of incoming BR which get automatically converted to zCATO via Zerocoin Protocol (min: 10%)", Q_NULLPTR));
+        percentage_label->setToolTip(QApplication::translate("OptionsDialog", "Percentage of incoming BR which get automatically converted to zbitcoinreal via Zerocoin Protocol (min: 10%)", Q_NULLPTR));
 #endif // QT_NO_TOOLTIP
         percentage_label->setText(QApplication::translate("OptionsDialog", "Percentage of autominted zBR", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP

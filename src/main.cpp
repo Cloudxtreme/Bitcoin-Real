@@ -2585,7 +2585,7 @@ void ThreadScriptCheck()
     scriptcheckqueue.Thread();
 }
 
-void RecalculateZCATOMinted()
+void RecalculateZbitcoinrealMinted()
 {
     CBlockIndex *pindex = chainActive[Params().Zerocoin_AccumulatorStartHeight()];
     int nHeightEnd = chainActive.Height();
@@ -2617,7 +2617,7 @@ void RecalculateZCATOMinted()
     pblocktree->Flush();
 }
 
-void RecalculateZCATOSpent()
+void RecalculateZbitcoinrealSpent()
 {
     CBlockIndex* pindex = chainActive[Params().Zerocoin_AccumulatorStartHeight()];
     while (true) {
@@ -2639,7 +2639,7 @@ void RecalculateZCATOSpent()
             pindex->mapZerocoinSupply.at(denom) += nDenomAdded;
         }
 
-        //Remove spends from zCATO supply
+        //Remove spends from zbitcoinreal supply
         for (auto denom : listDenomsSpent)
             pindex->mapZerocoinSupply.at(denom)--;
 
@@ -2654,7 +2654,7 @@ void RecalculateZCATOSpent()
     pblocktree->Flush();
 }
 
-bool RecalculateCATOSupply(int nHeightStart)
+bool RecalculatebitcoinrealSupply(int nHeightStart)
 {
     if (nHeightStart > chainActive.Height())
         return false;
@@ -2891,9 +2891,9 @@ bool ConnectBlock(const CBlock& block, CValidationState& state, CBlockIndex* pin
     std::list<libzerocoin::CoinDenomination> listSpends = ZerocoinSpendListFromBlock(block);
 
     if (!fVerifyingBlocks && pindex->nHeight == Params().Zerocoin_StartHeight() + 1) {
-        RecalculateZCATOMinted();
-        RecalculateZCATOSpent();
-        RecalculateCATOSupply(1);
+        RecalculateZbitcoinrealMinted();
+        RecalculateZbitcoinrealSpent();
+        RecalculatebitcoinrealSupply(1);
     }
 
     // Initialize zerocoin supply to the supply from previous block

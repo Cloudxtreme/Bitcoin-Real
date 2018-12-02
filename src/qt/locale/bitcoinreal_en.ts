@@ -1968,12 +1968,12 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 CATOCOIN</source>
+        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 CATOCOIN</source>
+        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1983,7 +1983,7 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>0.1 BRCOIN per 10000 CATOCOIN you anonymize.</source>
+        <source>0.1 BRCOIN per 10000 bitcoinrealCOIN you anonymize.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2162,7 +2162,7 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
     </message>
     <message>
         <location line="-133"/>
-        <source>Percentage of incoming BRCOIN which get automatically converted to zCATOCOIN via Zerocoin Protocol (min: 10%)</source>
+        <source>Percentage of incoming BRCOIN which get automatically converted to zbitcoinrealCOIN via Zerocoin Protocol (min: 10%)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2472,7 +2472,7 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
     <message>
         <location line="-46"/>
         <location line="+13"/>
-        <source>Locked BRCOIN or Masternode collaterals. These are excluded from zCATOCOIN minting.</source>
+        <source>Locked BRCOIN or Masternode collaterals. These are excluded from zbitcoinrealCOIN minting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2492,7 +2492,7 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
     <message>
         <location line="+7"/>
         <location line="+10"/>
-        <source>Unlocked BRCOINs. These can be used for zCATOCOIN minting.</source>
+        <source>Unlocked BRCOINs. These can be used for zbitcoinrealCOIN minting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2520,7 +2520,7 @@ These zBRCOIN are spendable.</source>
     <message>
         <location line="+23"/>
         <location line="+35"/>
-        <source>All available zBRCOIN, unconfirmed and immature zCATOCOIN included.</source>
+        <source>All available zBRCOIN, unconfirmed and immature zbitcoinrealCOIN included.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2721,7 +2721,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+6"/>
-        <source>Zerocoin BRCOIN (zCATOCOIN)</source>
+        <source>Zerocoin BRCOIN (zbitcoinrealCOIN)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4253,12 +4253,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+772"/>
-        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uCATOCOINs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uCATOCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 ubitcoinrealCOINs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 ubitcoinrealCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uCATOCOINs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uCATOCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 ubitcoinrealCOINs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 ubitcoinrealCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

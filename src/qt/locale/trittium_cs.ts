@@ -1446,16 +1446,16 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Použít 16 oddělených masternodů</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 CATO</source>
-        <translation>Tato možnost je nejrychleší a bude stát zhruba ~0.025 BR pro anonymizaci 10000 CATO</translation>
+        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 bitcoinreal</source>
+        <translation>Tato možnost je nejrychleší a bude stát zhruba ~0.025 BR pro anonymizaci 10000 bitcoinreal</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Toto je nejpomalejší a nejvíce bezpečná volba. Použití maximalní anonymity bude stát</translation>
     </message>
     <message>
-        <source>0.1 BR per 10000 CATO you anonymize.</source>
-        <translation>0.1 BR za 10000 CATO anonymizujete.</translation>
+        <source>0.1 BR per 10000 bitcoinreal you anonymize.</source>
+        <translation>0.1 BR za 10000 bitcoinreal anonymizujete.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>

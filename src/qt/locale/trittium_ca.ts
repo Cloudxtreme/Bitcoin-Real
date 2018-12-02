@@ -1154,12 +1154,12 @@
         <translation>Utilitza 16 masternodes diferents</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 CATO</source>
-        <translation>Aquesta opció és la més ràpida i té un cost d'uns ~0.025 BR per anonimitzar 10000 CATO</translation>
+        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 bitcoinreal</source>
+        <translation>Aquesta opció és la més ràpida i té un cost d'uns ~0.025 BR per anonimitzar 10000 bitcoinreal</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BR to anonymize 10000 CATO</source>
-        <translation>Aquesta opció és moderadament ràpida i té un cost d'uns 0.05 BR per anonimitzar 10000 CATO</translation>
+        <source>This option is moderately fast and will cost about 0.05 BR to anonymize 10000 bitcoinreal</source>
+        <translation>Aquesta opció és moderadament ràpida i té un cost d'uns 0.05 BR per anonimitzar 10000 bitcoinreal</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -1304,8 +1304,8 @@
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>Zerocoin BR (zCATO)</source>
-        <translation>Zerocoin BR (zCATO)</translation>
+        <source>Zerocoin BR (zbitcoinreal)</source>
+        <translation>Zerocoin BR (zbitcoinreal)</translation>
     </message>
     <message>
         <source>0</source>

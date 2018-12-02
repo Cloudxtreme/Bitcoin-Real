@@ -1560,20 +1560,20 @@ Please check the address and try again.</source>
         <translation>16개의 개별 마스터노드를 사용</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 CATO</source>
-        <translation>이 옵션은 가장 빠르게 전송되며 10000 BR 익명화에 약 ~0.025 CATO의 비용이 들어갑니다.</translation>
+        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 bitcoinreal</source>
+        <translation>이 옵션은 가장 빠르게 전송되며 10000 BR 익명화에 약 ~0.025 bitcoinreal의 비용이 들어갑니다.</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BR to anonymize 10000 CATO</source>
-        <translation>이 옵션은 중간 정도의 속도로 전송되며 10000 BR 익명화에 약 0.05 CATO의 비용이 들어갑니다.</translation>
+        <source>This option is moderately fast and will cost about 0.05 BR to anonymize 10000 bitcoinreal</source>
+        <translation>이 옵션은 중간 정도의 속도로 전송되며 10000 BR 익명화에 약 0.05 bitcoinreal의 비용이 들어갑니다.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>이것은 가장 느리고 안전한 옵션입니다. 최고 익명성을 사용하면 비용이 발생합니다.</translation>
     </message>
     <message>
-        <source>0.1 BR per 10000 CATO you anonymize.</source>
-        <translation>10000 BR 익명화에 0.1 CATO 가 듭니다.</translation>
+        <source>0.1 BR per 10000 bitcoinreal you anonymize.</source>
+        <translation>10000 BR 익명화에 0.1 bitcoinreal 가 듭니다.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1716,8 +1716,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>&amp;UPnp를 사용하여 포트 매핑</translation>
     </message>
     <message>
-        <source>Percentage of incoming BR which get automatically converted to zCATO via Zerocoin Protocol (min: 10%)</source>
-        <translation>BR수신시 자동변환 zCATO 퍼센트 (최소값:10%)</translation>
+        <source>Percentage of incoming BR which get automatically converted to zbitcoinreal via Zerocoin Protocol (min: 10%)</source>
+        <translation>BR수신시 자동변환 zbitcoinreal 퍼센트 (최소값:10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBR</source>
@@ -2068,8 +2068,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>제로코인 프로토콜을 통해 익명화된 BR</translation>
     </message>
     <message>
-        <source>Zerocoin BR (zCATO)</source>
-        <translation>제로코인 BR (zCATO)</translation>
+        <source>Zerocoin BR (zbitcoinreal)</source>
+        <translation>제로코인 BR (zbitcoinreal)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
@@ -2081,7 +2081,7 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
     </message>
     <message>
         <source>Enter an amount of Phr to convert to zPhr</source>
-        <translation>zBR로 변환할 CATO 수량을 입력하세요.</translation>
+        <translation>zBR로 변환할 bitcoinreal 수량을 입력하세요.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -3184,12 +3184,12 @@ Please be patient...</source>
         <translation>코인 자동으로 선택됨</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOs in fee,&lt;br /&gt;while "at least" pays 1000 uCATOs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>트랜잭션이 250바이트 인 경우 사용자 지정 수수료가 1000 uBRs로 설정되고,&lt;br /&gt;1000 uCATOs 안에는 최소 "킬로바이트당" 250 uCATOs 만 지불합니다. 1 킬로바이트보다 큰 트랜잭션의 경우 모두 킬로바이트 단위로 지불합니다.</translation>
+        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinreals in fee,&lt;br /&gt;while "at least" pays 1000 ubitcoinreals. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>트랜잭션이 250바이트 인 경우 사용자 지정 수수료가 1000 uBRs로 설정되고,&lt;br /&gt;1000 ubitcoinreals 안에는 최소 "킬로바이트당" 250 ubitcoinreals 만 지불합니다. 1 킬로바이트보다 큰 트랜잭션의 경우 모두 킬로바이트 단위로 지불합니다.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOs in fee,&lt;br /&gt;while "total at least" pays 1000 uCATOs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>트랜잭션이 250바이트 인 경우 사용자 지정 수수료가 1000 uBRs로 설정되고,&lt;br /&gt;1000 uCATOs 안에는 전체에서 최소 "킬로바이트당" 250 uCATOs 만 지불합니다. 1 킬로바이트보다 큰 트랜잭션의 경우 모두 킬로바이트 단위로 지불합니다.</translation>
+        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinreals in fee,&lt;br /&gt;while "total at least" pays 1000 ubitcoinreals. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>트랜잭션이 250바이트 인 경우 사용자 지정 수수료가 1000 uBRs로 설정되고,&lt;br /&gt;1000 ubitcoinreals 안에는 전체에서 최소 "킬로바이트당" 250 ubitcoinreals 만 지불합니다. 1 킬로바이트보다 큰 트랜잭션의 경우 모두 킬로바이트 단위로 지불합니다.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BitcoinReal transactions than the network can process.</source>
@@ -3962,7 +3962,7 @@ Please be patient...</source>
     </message>
     <message>
         <source>Converted Phr to zPhr</source>
-        <translation>zBR로 변환된 CATO</translation>
+        <translation>zBR로 변환된 bitcoinreal</translation>
     </message>
     <message>
         <source>Spent zPhr</source>
@@ -3970,11 +3970,11 @@ Please be patient...</source>
     </message>
     <message>
         <source>Received Phr from zPhr</source>
-        <translation>zBR로 전송받은 CATO</translation>
+        <translation>zBR로 전송받은 bitcoinreal</translation>
     </message>
     <message>
         <source>Minted Change as zPhr from zPhr Spend</source>
-        <translation>zBR 전송후 남은 잔돈 zCATO 생성됨</translation>
+        <translation>zBR 전송후 남은 잔돈 zbitcoinreal 생성됨</translation>
     </message>
     <message>
         <source>Converted zPhr to Phr</source>
@@ -4097,7 +4097,7 @@ Please be patient...</source>
     </message>
     <message>
         <source>Received Phr from zPhr</source>
-        <translation>zBR로 전송받은 CATO</translation>
+        <translation>zBR로 전송받은 bitcoinreal</translation>
     </message>
     <message>
         <source>Zerocoin Mint</source>

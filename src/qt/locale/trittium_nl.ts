@@ -1543,20 +1543,20 @@ Controleer het adres alsjeblieft en probeer het opnieuw.</translation>
         <translation>Gebruik 16 aparte masternodes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 CATO</source>
-        <translation>Deze optie is het snelst en kost ongeveer ~0,025 BR om 10000 CATO te anonimiseren</translation>
+        <source>This option is the quickest and will cost about ~0.025 BR to anonymize 10000 bitcoinreal</source>
+        <translation>Deze optie is het snelst en kost ongeveer ~0,025 BR om 10000 bitcoinreal te anonimiseren</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BR to anonymize 10000 CATO</source>
-        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 BR om 10000 CATO te anonimiseren</translation>
+        <source>This option is moderately fast and will cost about 0.05 BR to anonymize 10000 bitcoinreal</source>
+        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 BR om 10000 bitcoinreal te anonimiseren</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Dit is de langzaamste en veiligste optie. Het gebruik van maximale anonimiteit kost</translation>
     </message>
     <message>
-        <source>0.1 BR per 10000 CATO you anonymize.</source>
-        <translation>je anonimiseert 0,1 BR per 10000 CATO.</translation>
+        <source>0.1 BR per 10000 bitcoinreal you anonymize.</source>
+        <translation>je anonimiseert 0,1 BR per 10000 bitcoinreal.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1699,8 +1699,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>Map poort gebruikt &amp;UPnP</translation>
     </message>
     <message>
-        <source>Percentage of incoming BR which get automatically converted to zCATO via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentage inkomende BR die automatisch wordt omgezet naar zCATO via Zerocoin Protocol (min: 10%)</translation>
+        <source>Percentage of incoming BR which get automatically converted to zbitcoinreal via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentage inkomende BR die automatisch wordt omgezet naar zbitcoinreal via Zerocoin Protocol (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBR</source>
@@ -2051,8 +2051,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>BR die via het Zerocin Protocol geanonimiseerd werden</translation>
     </message>
     <message>
-        <source>Zerocoin BR (zCATO)</source>
-        <translation>Zerocoin BR (zCATO)</translation>
+        <source>Zerocoin BR (zbitcoinreal)</source>
+        <translation>Zerocoin BR (zbitcoinreal)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
@@ -3167,12 +3167,12 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Munten automatisch geselecteerd</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOs in fee,&lt;br /&gt;while "at least" pays 1000 uCATOs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBRs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uCATO's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uCATO's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinreals in fee,&lt;br /&gt;while "at least" pays 1000 ubitcoinreals. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBRs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 ubitcoinreal's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 ubitcoinreal's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOs in fee,&lt;br /&gt;while "total at least" pays 1000 uCATOs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBRs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uCATO's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uCATO's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinreals in fee,&lt;br /&gt;while "total at least" pays 1000 ubitcoinreals. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBRs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 ubitcoinreal's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 ubitcoinreal's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BitcoinReal transactions than the network can process.</source>

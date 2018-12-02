@@ -1528,20 +1528,20 @@ Please check the address and try again.</source>
         <translation>Используйте 16 разных мастернод</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Этот вариант является самым быстрым и будет стоить порядка ~0.025 BRCOIN для анонимизации 10000 CATOCOIN</translation>
+        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Этот вариант является самым быстрым и будет стоить порядка ~0.025 BRCOIN для анонимизации 10000 bitcoinrealCOIN</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Это средний по скорости вариант и он будет стоить около 0.05 BRCOIN для анонимизации 10000 CATOCOIN</translation>
+        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Это средний по скорости вариант и он будет стоить около 0.05 BRCOIN для анонимизации 10000 bitcoinrealCOIN</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Это самый медленный и безопасный вариант. Максимальная анонимность стоит</translation>
     </message>
     <message>
-        <source>0.1 BRCOIN per 10000 CATOCOIN you anonymize.</source>
-        <translation>0.1 BRCOIN за 10000 CATOCOIN которые вы собираетесь анонимизировать.</translation>
+        <source>0.1 BRCOIN per 10000 bitcoinrealCOIN you anonymize.</source>
+        <translation>0.1 BRCOIN за 10000 bitcoinrealCOIN которые вы собираетесь анонимизировать.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1684,8 +1684,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>Карта порта, использующего &amp;UPnP</translation>
     </message>
     <message>
-        <source>Percentage of incoming BRCOIN which get automatically converted to zCATOCOIN via Zerocoin Protocol (min: 10%)</source>
-        <translation>Процент приходящих BRCOIN, которые автоматически конвертируются в zCATOCOIN благодаря Zerocoin протоколу (min: 10%)</translation>
+        <source>Percentage of incoming BRCOIN which get automatically converted to zbitcoinrealCOIN via Zerocoin Protocol (min: 10%)</source>
+        <translation>Процент приходящих BRCOIN, которые автоматически конвертируются в zbitcoinrealCOIN благодаря Zerocoin протоколу (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBRCOIN</source>

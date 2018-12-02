@@ -1543,20 +1543,20 @@ Controleer het adres alsjeblieft en probeer het opnieuw.</translation>
         <translation>Gebruik 16 aparte masternodes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Deze optie is het snelst en kost ongeveer ~0,025 BRCOIN om 10000 CATOCOIN te anonimiseren</translation>
+        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Deze optie is het snelst en kost ongeveer ~0,025 BRCOIN om 10000 bitcoinrealCOIN te anonimiseren</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 BRCOIN om 10000 CATOCOIN te anonimiseren</translation>
+        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 BRCOIN om 10000 bitcoinrealCOIN te anonimiseren</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Dit is de langzaamste en veiligste optie. Het gebruik van maximale anonimiteit kost</translation>
     </message>
     <message>
-        <source>0.1 BRCOIN per 10000 CATOCOIN you anonymize.</source>
-        <translation>je anonimiseert 0,1 BRCOIN per 10000 CATOCOIN.</translation>
+        <source>0.1 BRCOIN per 10000 bitcoinrealCOIN you anonymize.</source>
+        <translation>je anonimiseert 0,1 BRCOIN per 10000 bitcoinrealCOIN.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1699,8 +1699,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>Map poort gebruikt &amp;UPnP</translation>
     </message>
     <message>
-        <source>Percentage of incoming BRCOIN which get automatically converted to zCATOCOIN via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentage inkomende BRCOIN die automatisch wordt omgezet naar zCATOCOIN via Zerocoin Protocol (min: 10%)</translation>
+        <source>Percentage of incoming BRCOIN which get automatically converted to zbitcoinrealCOIN via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentage inkomende BRCOIN die automatisch wordt omgezet naar zbitcoinrealCOIN via Zerocoin Protocol (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBRCOIN</source>
@@ -2051,8 +2051,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>BRCOIN die via het Zerocin Protocol geanonimiseerd werden</translation>
     </message>
     <message>
-        <source>Zerocoin BRCOIN (zCATOCOIN)</source>
-        <translation>Zerocoin BRCOIN (zCATOCOIN)</translation>
+        <source>Zerocoin BRCOIN (zbitcoinrealCOIN)</source>
+        <translation>Zerocoin BRCOIN (zbitcoinrealCOIN)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
@@ -3167,12 +3167,12 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Munten automatisch geselecteerd</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOCOINs in fee,&lt;br /&gt;while "at least" pays 1000 uCATOCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBRCOINs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uCATOCOIN's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uCATOCOIN's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinrealCOINs in fee,&lt;br /&gt;while "at least" pays 1000 ubitcoinrealCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBRCOINs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 ubitcoinrealCOIN's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 ubitcoinrealCOIN's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOCOINs in fee,&lt;br /&gt;while "total at least" pays 1000 uCATOCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBRCOINs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uCATOCOIN's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uCATOCOIN's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinrealCOINs in fee,&lt;br /&gt;while "total at least" pays 1000 ubitcoinrealCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBRCOINs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 ubitcoinrealCOIN's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 ubitcoinrealCOIN's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BitcoinReal transactions than the network can process.</source>

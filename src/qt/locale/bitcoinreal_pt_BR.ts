@@ -1460,20 +1460,20 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Use 16 masternodes separados</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Está opção é a mais rápida e vai custar em torno de ~0.025 BRCOIN para anonimizar 10000 CATOCOIN</translation>
+        <source>This option is the quickest and will cost about ~0.025 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Está opção é a mais rápida e vai custar em torno de ~0.025 BRCOIN para anonimizar 10000 bitcoinrealCOIN</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 CATOCOIN</source>
-        <translation>Está opção moderamente rápida e vai custar em torno de ~0.05 BRCOIN para anonimizar 10000 CATOCOIN</translation>
+        <source>This option is moderately fast and will cost about 0.05 BRCOIN to anonymize 10000 bitcoinrealCOIN</source>
+        <translation>Está opção moderamente rápida e vai custar em torno de ~0.05 BRCOIN para anonimizar 10000 bitcoinrealCOIN</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Esta é a opção mais lenta e mais segura. Usando a anonimização máxima vai custar</translation>
     </message>
     <message>
-        <source>0.1 BRCOIN per 10000 CATOCOIN you anonymize.</source>
-        <translation>0.1 BRCOIN por 10000 CATOCOIN que deixar anônima.</translation>
+        <source>0.1 BRCOIN per 10000 bitcoinrealCOIN you anonymize.</source>
+        <translation>0.1 BRCOIN por 10000 bitcoinrealCOIN que deixar anônima.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -2465,8 +2465,8 @@ https://www.transifex.com/bitcoinreal-project/bitcoinreal-project-translations</
         <translation>Tempo de confirmação:</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCATOCOINs in fee,&lt;br /&gt;while "at least" pays 1000 uCATOCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Se a taxa padrão estiver definida para 1000 uBRCOINs e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 uCATOCOINs em taxa,&lt;br /&gt; pagará pelo menos 1000 uCATOCOINs. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBRCOINs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 ubitcoinrealCOINs in fee,&lt;br /&gt;while "at least" pays 1000 ubitcoinrealCOINs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Se a taxa padrão estiver definida para 1000 uBRCOINs e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 ubitcoinrealCOINs em taxa,&lt;br /&gt; pagará pelo menos 1000 ubitcoinrealCOINs. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BitcoinReal transactions than the network can process.</source>
